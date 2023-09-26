@@ -20,9 +20,9 @@ timezone: Asia/Seoul
 
 title: 상상마켓 # the main title
 
-tagline: 최적가의 쇼핑으로 돈을 아끼는 블로그 # it will display as the sub-title
+tagline: Dream Market # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: 최적가의 쇼핑으로 돈을 아끼는 블로그>- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
