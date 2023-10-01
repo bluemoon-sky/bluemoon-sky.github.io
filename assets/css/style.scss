@@ -4,7 +4,7 @@
 @import '{{ site.theme }}';
 @import "product";
 /* 600px 이하의 화면 너비에서 적용되는 스타일 */
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 768px) {
     .product-container {
         width: 100%;
     }
