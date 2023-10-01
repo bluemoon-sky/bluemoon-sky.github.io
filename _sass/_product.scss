@@ -1,6 +1,6 @@
 .product-container {
-    width: 230px;
-    margin-right: 50px;
+    width: 800px;
+    margin-right: 10px;
 }
 
 .product-container h6 a {
@@ -12,7 +12,8 @@
 }
 
 .product-container img {
-    width: 100%;
+    width: 100%;   /* 컨테이너 넓이에 맞게 이미지 넓이 조정 */
+    height: auto;  /* 원본 비율 유지 */
 }
 
 .product-list {
