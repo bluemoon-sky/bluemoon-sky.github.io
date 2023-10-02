@@ -12,11 +12,6 @@
     text-overflow: ellipsis; /* 넘치는 텍스트를 ...으로 표시 */
 }
 
-.product-container img {
-    width: 100%;   /* 컨테이너 넓이에 맞게 이미지 넓이 조정 */
-    height: auto;  /* 원본 비율 유지 */
-}
-
 .product-list {
     display: flex;
 	flex-wrap: wrap; /* 추가 */
