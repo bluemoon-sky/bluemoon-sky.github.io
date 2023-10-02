@@ -1,9 +1,10 @@
-.product-container h6 a {
-    text-decoration: none; /* 링크 밑줄 제거 */
-    display: block; /* block 요소로 만들어 넓이 제한 가능하게 함 */
-    white-space: nowrap; /* 줄바꿈 없음 */
-    overflow: hidden; /* 내용이 넘치면 숨김 */
-    text-overflow: ellipsis; /* 넘치는 텍스트를 ...으로 표시 */
+.product-container a {
+    display: -webkit-box;
+	-webkit-line-clamp: 2; /* 표시할 줄 수 */
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 15px; /* 원하는 폰트 크기 */
 }
 
 .product-list {
