@@ -5,15 +5,11 @@
 @import "product";
 @media screen and (max-width: 768px) {
     .product-container {
-        width: 100%;
+        width: 50%;
         font-size:15px;
-    }
-    
-    .product-container img {
-        max-width: 100%;
-        height: auto;
+        float: left;
+        box-sizing: border-box;
+        padding-right: 10px;
     }
 }
-
-
 /* append your custom style below */
