@@ -1,8 +1,4 @@
-.product-container {
-    width: 230px;
-    margin-right: 80px;
-	margin-bottom: 60px; /* 원하는 크기로 변경 가능 */
-}
+
 
 .product-container h6 a {
     text-decoration: none; /* 링크 밑줄 제거 */
@@ -16,12 +12,9 @@
     display: flex;
 	flex-wrap: wrap; /* 추가 */
 }
-.product-container .product-price {
+.product-price {
 	font-size: 18px; /* 원하는 폰트 크기로 설정 */
 }
-.product-container .product-review {
+.product-review {
 	font-size: 15px; /* 원하는 폰트 크기로 설정 */
-}
-.product-container:last-child {
-    margin-right: 0;
 }
