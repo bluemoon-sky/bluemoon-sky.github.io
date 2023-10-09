@@ -26,6 +26,8 @@ description: "다양한 상품들을 저렴한 가격으로 제공하는 최적�
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://bluemoon-sky.github.io"
+plugins:
+  - jekyll-sitemap
 
 github:
   username: bluemoon_sky # change to your github username
