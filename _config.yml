@@ -22,7 +22,7 @@ title: 상상마켓 # the main title
 
 tagline: Dream Market<br><br>"상상한 만큼 최적가의 쇼핑으로 돈을 아끼는 사이트" # it will display as the sub-title
 
-description: "다양한 상품들을 저렴한 가격으로 제공하는 최적가 쇼핑몰입니다. 패션, 가전제품, 홈데코 등 다양한 카테고리에서 고품질 제품을 찾아보세요. 우리 쇼핑몰에서는 항상 고객의 만족을 위해 최선을 다하고 있습니다."
+description: "다양한 상품들을 저렴한 가격으로 제공하는 최적가 쇼핑몰"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://bluemoon-sky.github.io"
