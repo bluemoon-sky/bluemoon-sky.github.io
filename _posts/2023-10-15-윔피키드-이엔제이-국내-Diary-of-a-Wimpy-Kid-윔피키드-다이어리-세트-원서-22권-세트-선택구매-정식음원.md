@@ -41,7 +41,7 @@ pin: true
             <div class="col-6 col-sm-4 col-lg-4 col-lg-3">
                 <div class="product-container">
                     <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=&pageKey=5448630&traceid=V0-153&itemId=24696952&vendorItemId=3038242947" target="_blank"><img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/151693116528421-f9a11917-2483-440b-b008-a6e218255a17.jpg" alt="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/151693116528421-f9a11917-2483-440b-b008-a6e218255a17.jpg" width="220" height="220"></a>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=&pageKey=5448630&traceid=V0-153&itemId=24696952&vendorItemId=3038242947" target="_blank">윔피 키드 1 : 학교생활일기, 아이세움, 윔피키드 시리즈2</a>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=&pageKey=5448630&traceid=V0-153&itemId=24696952&vendorItemId=3038242947" target="_blank">윔피 키드1:학교생활일기, 아이세움, 윔피키드 시리즈2</a>
                     <span style="color:#E61328">3%</span> <b>10,800원</b>
                     <br><a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=&pageKey=5448630&traceid=V0-153&itemId=24696952&vendorItemId=3038242947" target="_blank"><span style="color:#FE9427">★</span> 5.0
                     리뷰 25174개</a>
